@@ -131,9 +131,6 @@ npm run build
 npm run lint
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 1. Fork the repository
@@ -168,20 +165,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-### Documentation
-- [User Guide](docs/user-guide.md)
-- [API Reference](docs/api-reference.md)
-- [Fairness Metrics Explained](docs/metrics.md)
-
-### Community
-- [GitHub Issues](https://github.com/yourusername/ml-bias-auditor/issues)
-- [Discussions](https://github.com/yourusername/ml-bias-auditor/discussions)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/ml-bias-auditor)
-
-### Professional Support
-Contact us at support@ml-bias-auditor.com for enterprise support and consulting services.
 
 ## 🙏 Acknowledgments
 
